@@ -1,0 +1,6 @@
+# Archivos de configuración
+*.log
+*.tmp
+
+# Node.js
+node/modules/
